@@ -12,7 +12,7 @@
   "author": "Naffsvn",
   "license": "ISC",
   "devDependencies": {
-    "@hapi/hapi": "^21.3.3",
+    "@hapi/hapi": "^21.3.6",
     "eslint": "^8.56.0",
     "eslint-config-google": "^0.14.0",
     "nodemon": "^3.0.3"
